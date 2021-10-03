@@ -2,7 +2,7 @@
 
 ## Description
 
-A marketing agency has requested that their website be refactored to follow accessibility standards so that their site is optimized for search engines. Improving a site's accessibility makes it so that people with visual, hearing, or other impairments can more easily navigate and absorb what the website offers.
+A marketing agency has requested that their website be refactored to follow accessibility standards so that their site is optimized for search engines. Improving a site's accessibility makes it so that people with visual, hearing, or other impairments can more easily navigate and absorb what the website offers. Changes include adding semantic HTML elements, adding alt attributes to all image elements, fixing broken anchor tags, and improving the readability and sustainability of the CSS file with commenting and the DRY principle.
 
 ## Table of Contents
 
