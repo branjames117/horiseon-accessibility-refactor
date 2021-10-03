@@ -18,7 +18,7 @@ Clone the repository in a CLI using the command `git clone` to download all sour
 ## Usage
 
 Upload HTML source code and asset files to hosting service such as GitHub Pages.
-![Screenshot](./Develop/assets/images/screenshot..png)
+![Screenshot](./assets/images/screenshot..png)
 
 ## Credits
 
