@@ -19,6 +19,8 @@ Clone the repository in a CLI using the command `git clone` to download all sour
 
 Upload HTML source code and asset files to hosting service such as GitHub Pages.
 
+The landing page is hosted [here](https://branjames117.github.io/horiseon-accessibility-refactor/).
+
 ![Screenshot](./assets/images/screenshot..png)
 
 ## Credits
